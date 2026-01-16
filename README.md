@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atlas ATMAZ</h1>
-<h3 align="center">bla bla bla bla</h3>
+<h3 align="center">ben atlas futbol ve bilgisayarda takılırım
+</h3>
 
 <center>
 <br>
